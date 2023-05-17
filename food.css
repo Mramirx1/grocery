@@ -1,0 +1,58 @@
+.nav{
+
+    word-spacing: 30px;
+   float: right;
+   padding-right: 500px;
+
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 25px;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(food.jpg) ;
+}
+
+
+
+#slider{
+    background-color:black;
+    opacity: 70%;
+    backface-visibility: visible;
+    height: 500px;
+    width: 350px;
+}
+#slidertitle{
+    color: white;
+    text-shadow: 2px px grey;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    word-spacing: 10px;
+}
+#sliderdesc{
+    font-size: 20px;
+    color: whitesmoke;
+    text-align: center;
+    opacity: 80%;
+    padding-top: 20px;
+}
+#sliderphnum{
+    font-size: 25px;
+    text-align: center;
+    color: #fffefe;
+}
+#olink{
+    color: red;
+    text-align: center;
+    
+    border: 3px solid white;
+    background-color: yellow;
+    margin-left: 30%;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+}
